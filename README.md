@@ -280,7 +280,6 @@ By predicting emissions, optimizing routes, and visualizing fossil depletion tre
 * [Streamlit Docs](https://docs.streamlit.io/)
 
 ---
-
 <p align="center">
   Made by <b>Ishwari Kakade</b><br/>
   <i>AI-ML Specialization Project | 2025</i>
