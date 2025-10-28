@@ -226,8 +226,8 @@ EcoSphere.ai/
 │
 ├── AIML_CO2_PROJECT.ipynb     # Model & training pipeline
 ├── co2.csv                    # Dataset
-├── report/                    # Project documentation
-├── app/                       # Streamlit dashboard
+├── report.pdf                    # Project documentation
+├── EcoSphere.py                       # Streamlit dashboard
 ├── requirements.txt            # Dependencies
 └── README.md                   # Overview
 ```
