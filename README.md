@@ -284,7 +284,7 @@ By predicting emissions, optimizing routes, and visualizing fossil depletion tre
 ---
 
 <p align="center">
-  Made with ❤️ by <b>Ishwari Kakade</b><br/>
+  Made by <b>Ishwari Kakade</b><br/>
   <i>AI-ML Specialization Project | 2025</i>
 </p>
 ```
