@@ -22,6 +22,16 @@ It uses **Machine Learning**, **Smart Routing Algorithms**, and an **interactive
 
 ---
 
+## 🧠 Model Summary — CO₂ Emission Prediction Engine
+The **EcoSphere.ai CO₂ Emission Prediction Model** estimates the carbon output of logistics vehicles using real-world parameters such as vehicle type, fuel type, mileage, load weight, vehicle age, and maintenance efficiency.  
+Built with **Random Forest** and **XGBoost**, it captures non-linear relationships between these inputs and emission levels, achieving an accuracy of **R² ≈ 0.99** on test data.
+
+The model is trained on enriched and synthetically augmented datasets reflecting diverse trip conditions.  
+It predicts emissions in **grams per kilometer**, providing interpretable, data-driven insights for logistics optimization, policy analysis, and ESG reporting.  
+Deployed via **Streamlit**, users can interactively input trip details and obtain instant emission estimates — enabling smarter, sustainable transportation decisions that align with **NetZero** and **SDG** goals. 🌱
+
+---
+
 ## 🌱 Core Concept
 The logistics sector contributes significantly to global CO₂ emissions due to inefficient routing and fossil fuel dependency.  
 EcoSphere.ai addresses this through two integrated modules:
