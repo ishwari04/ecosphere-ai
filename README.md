@@ -1,6 +1,4 @@
 
-# Ecosphere-ai
-AI-powered sustainability platform for route optimization and fossil fuel awareness
 
 <h1 align="center">🌍 EcoSphere.ai</h1>
 <h3 align="center">AI-Powered CO₂ Route Optimization & Fossil Fuel Awareness Platform</h3>
