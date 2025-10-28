@@ -173,14 +173,13 @@ To predict the **CO₂ emission rate (grams/km)** based on real-world features:
 
 ## 🧪 Workflow
 
-```mermaid
-flowchart TD
-A[Data Collection] --> B[Preprocessing & Feature Engineering]
-B --> C[Model Training (Random Forest, XGBoost)]
-C --> D[Emission Prediction & Route Optimization]
-D --> E[Dashboard Visualization]
-E --> F[ESG/BRSR Report Generation]
-```
+ESG Reporting Cycle
+Data Collection
+ESG/BRSR Report Generation
+Preprocessing & Feature Engineering
+Dashboard Visualization
+Model Training
+Emission Prediction & Route Optimization<img width="2052" height="2124" alt="image" src="https://github.com/user-attachments/assets/43a98539-8f5d-4d51-bc55-384ef16faf56" />
 
 ---
 
@@ -271,8 +270,7 @@ By predicting emissions, optimizing routes, and visualizing fossil depletion tre
 | ------------------------------ | ------------------------------- |
 | **Ishwari Kakade**             | Lead Developer & ML Architect   |
 | **Kritika Nimje**              | Data Analyst & Model Validation |
-| **Atharva Kale**               | Visualization & Research        |
-| **Mentor:** *Dr. Princy Diwan* | Project Guide                   |
+| **Atharva Kale**               | Visualization & Research        |       |
 
 ---
 
@@ -292,4 +290,3 @@ By predicting emissions, optimizing routes, and visualizing fossil depletion tre
 ```
 
 
-Would you like me to generate the matching **`requirements.txt`** file now (with all Python dependencies used in your notebook and Streamlit app)?
